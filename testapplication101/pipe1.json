@@ -1,0 +1,1 @@
+{"name":"pipe1","stages":[],"triggers":[],"application":"testapplication101","limitConcurrent":true,"stageCounter":1,"parallel":true,"index":0,"id":"48121960-b5b2-11e5-9a25-4d5f8b5d24c9","notifications":[{"level":"pipeline","when":["pipeline.starting"],"type":"email","address":"pdai@gmail.com"}]}
