@@ -1,0 +1,1 @@
+{"name":"dpApp2Pipe1","stages":[],"triggers":[],"application":"pdapp2","limitConcurrent":true,"stageCounter":0,"parallel":true,"index":0,"id":"20634cd0-b66c-11e5-a76f-234077790fbd","route":"pipelineConfigs","reqParams":null,"fromServer":true,"parentResource":{"route":"applications","parentResource":null,"id":"pdapp2"},"restangularCollection":false}
